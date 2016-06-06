@@ -61,7 +61,7 @@ Vector2f cluster_mean = solver.mean(i);
 
 ## Further documentation
 
-Refer to the [docs](docs/).
+Refer to the [docs](core/doc/html/).
 
 ## Demo
 
