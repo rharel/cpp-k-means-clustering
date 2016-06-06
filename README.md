@@ -1,6 +1,6 @@
 ## What is this?
 
-A simple implementation of the [k-mean clustering](https://en.wikipedia.org/wiki/K-means_clustering) algorithm for C++.
+A simple implementation of the [k-means clustering](https://en.wikipedia.org/wiki/K-means_clustering) algorithm for C++.
 
 
 ## Installation
